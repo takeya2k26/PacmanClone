@@ -577,3 +577,58 @@ Thank you for checking out **PacmanClone**!
 Enjoy the game and keep coding! 👾
 
 ---
+# 🎮 Download & Play
+
+Want to play the game without opening the source code?
+
+You can download the ready-to-run **PacmanClone.jar** file directly from this GitHub repository.
+
+### 📥 How to Download
+
+1. Open the **PacmanClone** GitHub repository.
+2. Click **PacmanClone.jar**.
+3. Click the **Download** button.
+4. Save the `.jar` file to your computer.
+
+### ☕ Java Requirement
+
+The game requires **Java 17 or newer**.
+
+Check whether Java is installed:
+
+    java -version
+
+If Java is installed, you can run the game from PowerShell or Command Prompt:
+
+    java -jar PacmanClone.jar
+
+### 🖱️ Windows
+
+You may also be able to double-click **PacmanClone.jar** to start the game if Java is correctly associated with `.jar` files on your computer.
+
+### 🎮 No IDE Required
+
+You do **not** need:
+
+- VS Code
+- NetBeans
+- Eclipse
+- The Java source code
+
+to play the packaged game.
+
+The JAR contains the compiled game and required game resources.
+
+### ⚠️ If the Game Does Not Start
+
+Make sure:
+
+- Java 17 or newer is installed.
+- The downloaded file is named `PacmanClone.jar`.
+- You are running the correct JAR file.
+
+You can also run it from a terminal using:
+
+    java -jar PacmanClone.jar
+
+---
